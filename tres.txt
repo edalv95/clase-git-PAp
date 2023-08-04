@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 tres
 soy_el_uno
+=======
+soy_el_cuatro
+>>>>>>> e319d67304baeace7b4fd90a57b44eadf7ec4594
